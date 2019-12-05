@@ -1,5 +1,5 @@
 # feedbacklinearization
-Code developed for the simulations in the paper
+If you use this code, please cite the paper
 
 T. Menara, G. Baggio, F. Pasqualetti (2020)
 "Conditions for Feedback Linearization of Network Systems"

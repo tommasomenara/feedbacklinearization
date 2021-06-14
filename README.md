@@ -1,8 +1,22 @@
 # feedbacklinearization
-If you use this code, please cite the paper
+## Citation
 
-T. Menara, G. Baggio, D. S. Bassett, F. Pasqualetti (2020)
-"Conditions for Feedback Linearization of Network Systems"
-IEEE Control Systems Letters (L-CSS), vol. 4, no.3, pp. 578-583
+If you find our work or the code useful, please consider cite our paper using:
 
-This Simulink model has been created in Matlab R2019a
+```bibtex
+@article{menara2020conditions,
+  title={Conditions for Feedback Linearization of Network Systems},
+  author={Menara, Tommaso and Baggio, Giacomo and Bassett, Danielle S and Pasqualetti, Fabio},
+  journal={IEEE Control Systems Letters},
+  volume={4},
+  number={3},
+  pages={578--583},
+  year={2020},
+  publisher={IEEE}
+}
+```
+## Dependencies
+
+Recommended version:
+- Simulink for Matlab
+- Matlab 2019a
